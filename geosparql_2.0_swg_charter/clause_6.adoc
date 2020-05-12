@@ -6,3 +6,30 @@ Description of the target participants in this SWG. For example, if the SWG were
 This is not meant as a limiting statement but instead is intended to provide guidance to interested potential participants as to whether they wish to participate in this SWG.
 ////
 
+An update of the GeoSPARQL standard should be relevant to following people or organisations, either as participant or observer:
+
+* Geospatial experts working with semantic/graph data;
+* Geospatial experts that can foresee working with semantic/graph data;
+* Linked Data / Semantic Web experts working with spatial data;
+* Current and future software implementers of the GeoSPARQL standards, among which will be:
+** Developers/maintainers of software for storing spatial semantic/graph data;
+** Developers/maintainers of software for processing spatial semantic/graph data;
+** Developers/maintainers of software for reasoning with spatial semantic/graph data;
+** Developers/maintainers of software for visualizing spatial semantic/graph data;
+** Developers/maintainers of ontologies involving spatial data;
+
+
+//// 
+perhaps the following parties should be mentioned explicitely:
+* dataset maintainers
+* curators of metadata
+* web developers
+////
+
+[NOTE]
+Only during the development of the update of the GeoSPARQL standard will it become clear if and how the updated standard will apply to coverage data and non-geographical spatial data.
+
+
+
+
+
